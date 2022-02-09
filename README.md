@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @motherchucker
 - 👀 I’m interested in iOS development and Frontend React development
-- 🌱 I’m currently learning React
+- 🌱 I’m currently working with React, MobX, Material UI 
 
 <!---
 motherchucker/motherchucker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
